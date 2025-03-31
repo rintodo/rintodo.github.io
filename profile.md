@@ -6,26 +6,10 @@ permalink: /profile
 
 
 
----
-layout: page
-title: "自己紹介"
-permalink: /profile
----
-
 
 
 <html lang="ja">
-    <head>
-        <title>自己紹介｜Rin Todo 録</title>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta property="og:site_name" content="Rin Todo">
-        <meta property="og:title" content="自己紹介">
-        <meta property="og:description" content="Rin Todo の自己紹介。">
-        <meta property="og:type" content="website">
-        <meta property="og:url" content="https://rintodo.github.io/index/profile.html">
-        <link rel="stylesheet" href="/tinyspace/css/main.css">
-    </head>
+   </head>
     <body>
         <div class="wrap">
             <header>
