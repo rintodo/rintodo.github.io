@@ -10,7 +10,13 @@ publish: false
 
 <html lang="ja">
    <head>
-   
+   <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta property="og:site_name" content="微小録">
+        <meta property="og:title" content="自己紹介">
+        <meta property="og:description" content="微小(@tiny_delta)の自己紹介。">
+        <meta property="og:type" content="website">
+        <link rel="stylesheet" href="/tinyspace/css/main.css">
    </head>
     <body>
         <div class="wrap">
