@@ -10,13 +10,7 @@ publish: false
 
 <html lang="ja">
    <head>
-   <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta property="og:site_name" content="微小録">
-        <meta property="og:title" content="自己紹介">
-        <meta property="og:description" content="微小(@tiny_delta)の自己紹介。">
-        <meta property="og:type" content="website">
-        <link rel="stylesheet" href="/tinyspace/css/main.css">
+   
    </head>
     <body>
         <div class="wrap">
@@ -37,7 +31,7 @@ publish: false
                 <li>出身地</li>宮城県
                 <li>居住地</li>東京都
                 <li>性別</li>不明
-              <li>資格</li>修士 (文学)，気象予報士
+                <li>資格</li>修士 (文学)，気象予報士
                 <h3>興味関心</h3>
             <ul>
                 <li>文学</li>古典文学から現代の一般向け小説まで。執筆と批評と、双方の機軸を確立したい。
