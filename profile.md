@@ -2,15 +2,16 @@
 layout: page
 title: "自己紹介"
 permalink: /profile
-
+-->
 
 
 
 
 
 <html lang="ja">
+   <head>
+   
    </head>
- -->
     <body>
         <div class="wrap">
             <header>
