@@ -1,8 +1,7 @@
-<!--
 layout: page
 title: "自己紹介"
 permalink: /profile
--->
+
 
 
 
@@ -16,7 +15,7 @@ permalink: /profile
         <div class="wrap">
             <header>
                 <h1>自己紹介</h1>
-                <span><a href="/tinyspace/index.html">TOP</a> ＞ 自己紹介</span>
+                <span><a href="/index.html">TOP</a> ＞ 自己紹介</span>
             </header>
             <main>
             <h2>このサイトについて</h2>
