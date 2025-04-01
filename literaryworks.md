@@ -2,7 +2,7 @@
 layout: page
 title: "小説"
 permalink: /literaryworks
-cssclass: 
+cssclass:
 publish: false
 ---
 
@@ -10,7 +10,7 @@ publish: false
 
 <html lang="ja">
    <head>
-   
+
    </head>
     <body>
         <div class="wrap">
@@ -21,30 +21,19 @@ publish: false
             <main>
             <h2>著述と読書の記録</h2>
             <p>いずれの記録も網羅的ではありません。</p>
-            <h3>test</h3>
+            <h3>著述のための指針</h3>
             <ul>
                 <li>test</li>test
             </ul>
-            <h3>test</h3>test
+            <h3>読んだものリスト</h3>test
             <ul>
-                <li>test</li>test
-            </ul>
-            <h3>test</h3>test
-            <ul>
-                <li>test</li>test
-            </ul>
-            <h3>test</h3>test
-            <ul>
-                <li>test</li>test
-            </ul>
-            <h3>test</h3>test
-            <ul>
-                <li>test</li>test
+                <li>純文学系</li>
+                <li>一般小説系</li>
             </ul>
             </main>
             <footer class="footer">
                 <p>◀<a href="/index.html">〈TOP〉に戻る</a></p>
-                Created by Rin Todo 
+                Created by Rin Todo
             </footer>
         </div>
     </body>
