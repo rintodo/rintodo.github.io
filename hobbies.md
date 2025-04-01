@@ -47,7 +47,7 @@ publish: false
                 <li>Final Fantasy X</li>プロットが比較的明快で好き。
                 <li>Final Fantasy Tactics Advance</li>幼少時の私はガチハマりしたが界隈では無印 Tactics が高評価すぎて隠れぎみ。
                 <li>Final Fantasy XII</li>消費しただけという程度だが，大人が考えてプレーすれば深さがわかるらしい。
-                <li>Final Fantasy XIII</li>同じく消費しただけ。
+                <li>Final Fantasy XIII</li>当時はただ「ライトニングかっこいい」となっていただけ。
                 <li>Sonic Adventure 2 Battle</li>子ども時代にガンギマリしたゲームの代表。
                 <li>Life is Strange</li>大人になってプレーした数少ないゲーム。日本語版の実況動画も観たが，原作の声優陣のほうが好き。
             </ul>
