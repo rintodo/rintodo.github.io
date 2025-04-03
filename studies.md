@@ -22,7 +22,7 @@ publish: false
             <h2>学んできたことと，これから学びたいこと</h2>
             <p>知的成長をやめたときが青春期のおわりだと，17歳の夜にシャワーを浴びながらふと気づいてからというもの，自分なりに読み書き考えています。</p>
             <h2>分野別記録</h2>
-            <h3><a href="/studies/humanities.html">人文・芸術系</a></h3>
+            <h3><a href="/studies/humanities.html">人文・芸術</a></h3>
             <ul>
                 <li>文学理論と文芸批評</li>いちばん付き合い方がわかっていない分野。
                 <li>西洋古典文献学</li>古典テクストの分際を知るため。
@@ -31,12 +31,12 @@ publish: false
                 <li>英語史</li>単純に印欧語由来の興味ゆえ。
                 <li>科学哲学</li>科学王国の覇権に魔がさしたときに勉強した。
             </ul>
-            <h3><a href="/studies/socialsciences.html">社会科学系</a></h3>
+            <h3><a href="/studies/socialsciences.html">社会科学</a></h3>
             <ul>
                 <li>教育社会学</li>身の周りのあらゆる権力に自覚的になりたかった。
                 <li>比較政治学</li>床屋政談屋にはなりたくなかった。
             </ul>
-            <h3><a href="/studies/naturalsciences.html">自然科学系</a></h3>
+            <h3><a href="/studies/naturalsciences.html">自然科学</a></h3>
             <ul>
                 <li>物理化学</li>数理的道具が必要で大変だった。
                 <li>無機化学</li>錯体の化学は（地惑で重要なのだが）沼だと感じた。
@@ -46,7 +46,7 @@ publish: false
                 <li>流体力学</li>同上，教科書や環境に恵まれた。
 
             </ul>
-            <h3><a href="/studies/mathematicalsciences.html">数理科学系</a></h3>
+            <h3><a href="/studies/mathematicalsciences.html">数理科学</a></h3>
             <ul>
                 <li>代数系</li>まずはガロア理論という目標があるし，なんか肌に合った。
                 <li>集合と位相</li>やはり肌に会った。
