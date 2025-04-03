@@ -15,6 +15,7 @@ publish: false
     <body>
         <div class="wrap">
             <header>
+            <main>
                 <h1>数理科学</h1>
                 <span><a href="/index.html">TOP</a> ＞ <a href="/index/studies.html">勉強</a> ＞ 数理科学</span>
             </header>
