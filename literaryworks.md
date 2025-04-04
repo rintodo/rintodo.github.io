@@ -27,8 +27,8 @@ publish: false
             </ul>
             <h3>読んだものリスト</h3>test
             <ul>
-                <li>純文学系</li>
-                <li>一般小説系</li>
+                <li><a href="/literaryworks/classics.html">純文学系</a></li>
+                <li><a href="/literaryworks/novels.html">一般小説系</a></li>
             </ul>
             </main>
             <footer class="footer">
