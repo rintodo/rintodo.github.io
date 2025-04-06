@@ -25,7 +25,7 @@ publish: false
                 <li>砂川重信『理論電磁気学 第3版』紀伊國屋書店，1999</li>同著者による『電磁気学: 初めて学ぶ人のために』(1997) という高校4年生～大学0年生くらいにちょうどよい薄い本もある。
                 <li>今井功『流体力学』岩波書店，1993</li>
                 <li>巽友正『流体力学』培風館，1995</li>                
-                <li>J.E. アンドリューズ他著，渡辺正訳『地球環境化学入門 (改訂版)』丸善出版，2012</li>             
+                <li>J.E. アンドリューズ他著，渡辺正訳『地球環境化学入門 改訂版』丸善出版，2012</li>             
                 <li>Lavega, A. <em>An introduction to planetary atmospheres</em>, Boca Raton, FL: CRC Press, 2011</li>
                 <li>Wallace, J.M. Hobbs, P.V. <em>Atmospheric science: an introductory survey</em>, Amsterdam, Elsevier, 2006</li>
                 <li>Ruddiman, W.F. <em>Earth's climate: past and future</em>,New York, NY: W.H. Freeman and Company, 2014</li>
