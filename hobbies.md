@@ -25,6 +25,7 @@ publish: false
             <h3>美術/イラストレーション</h3>
             <ul>
                 <li><a href="https://fr.wikipedia.org/wiki/Georges_de_La_Tour">Georges de La Tour</a></li>
+                <li><a href="https://umishimasite.wixsite.com/my-site">海島千本</a></li>
             </ul>
             <h3>映画/アニメ/アニメーション</h3>
             <ul>
