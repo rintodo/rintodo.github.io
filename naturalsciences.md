@@ -21,7 +21,14 @@ publish: false
             <main>
             <h3>test</h3>
             <ul>
-                <li>test</li>test
+                <li>J.E.アンドリューズ他著，渡辺正訳『地球環境化学入門 (改訂版)』丸善出版，2012</li>
+                <li>今井功『流体力学』岩波書店，1993</li>
+                <li>巽友正『流体力学』培風館，1995</li>
+                <li>田崎晴明 『熱力学』培風館，2000</li>               
+                <li>Lavega, A. <em>An introduction to planetary atmospheres</em>, Boca Raton, FL: CRC Press</li>
+                <li>Wallace, J.M., Hobbs, P.V. <em>Atmospheric science : an introductory survey</em>, Amsterdam, Elsevier</li>
+
+
             </ul>
             </main>
             <footer class="footer">
