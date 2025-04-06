@@ -27,11 +27,18 @@ publish: false
                 <li>巽友正『流体力学』培風館，1995</li>                
                 <li>J.E. アンドリューズ他著，渡辺正訳『地球環境化学入門 (改訂版)』丸善出版，2012</li>             
                 <li>Lavega, A. <em>An introduction to planetary atmospheres</em>, Boca Raton, FL: CRC Press, 2011</li>
-                <li>Wallace, J.M., Hobbs, P.V. <em>Atmospheric science: an introductory survey</em>, Amsterdam, Elsevier, 2006</li>
+                <li>Wallace, J.M. Hobbs, P.V. <em>Atmospheric science: an introductory survey</em>, Amsterdam, Elsevier, 2006</li>
                 <li>Ruddiman, W.F. <em>Earth's climate: past and future</em>,New York, NY: W.H. Freeman and Company, 2014</li>
                 <li>小倉義光『一般気象学 第2版補訂版』東京大学出版会，2016</li>私が持っているのは第2版だったと思われる。
                 <li>横山祐典『地球46億年気候大変動』講談社ブルーバックス，2018</li>一般向け。
                 <li>田近英一『凍った地球』新潮選書，2009</li>一般向け。新しい定説が一般に普及するまで50年かかると言われるが，スノーボールアースの話などはそれではないかとたまに思う。
+                <li>『アトキンス物理化学』</li>
+                <li>『シュライバー・アトキンス無機化学</li>
+                <li>荻野他『基本無機化学 第3版』東京化学同人，2016</li>大学化学入門の一環として使うのもありなのではという明快な和書。
+                <li>『マクマリー有機化学』</li>
+                <li>川端潤『ビギナーズ有機化学 第2版』化学同人，2013</li>これも最初の一冊目用。「東京化学同人」と「化学同人」は全くの別法人。
+
+
 
 
             </ul>
