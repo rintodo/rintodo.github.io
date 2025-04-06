@@ -25,7 +25,7 @@ publish: false
             <ul>
                 <li>test</li>test
             </ul>
-            <h3>読んだものリスト</h3>test
+            <h3>読んだものリスト</h3>綺麗にジャンル分けできる性質のものではないが，さしあたって商用性の多寡から個人的判断によって分類した。
             <ul>
                 <li><a href="/literaryworks/classics.html">純文学系</a></li>
                 <li><a href="/literaryworks/novels.html">一般小説系</a></li>
