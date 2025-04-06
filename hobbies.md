@@ -38,19 +38,20 @@ publish: false
             <ul>
                 <li>久石譲</li>みんな好きだと思う。
                 <li>河村幹子</li>新日本フィルハーモニー交響楽団首席ファゴット奏者。
+                <li>和田薫</li>アニメ『犬夜叉』を通じて知った作曲家。
                 <li>Garnet Crow</li>ポップミュージックではこれ。当の昔に解散したが，コナン経由で。たぶん唯一網羅的に繰り返し聴き続けているグループ。
             </ul>
             <h3>ゲーム</h3>量は多くない。
             <ul>
                 <li>Final Fantasy VII</li>すでに XII が出ている時期だったが一番人気ということでやった。
                 <li>Final Fantasy VIII</li>キャラクター関係，世界観や設計など，個人的にいちばん好き。
-                <li>Final Fantasy IX</li>背景美術が綺麗で好き。
+                <li>Final Fantasy IX</li>背景美術が幻想的で好き。イーファの樹が遠くに映る，あの一枚のマップが好き。
                 <li>Final Fantasy X</li>プロットが比較的明快で好き。
                 <li>Final Fantasy Tactics Advance</li>幼少時の私はガチハマりしたが界隈では無印 Tactics が高評価すぎて隠れぎみ。
                 <li>Final Fantasy XII</li>消費しただけという程度だが，大人が考えてプレーすれば深さがわかるらしい。
                 <li>Final Fantasy XIII</li>当時はただ「ライトニングかっこいい」となっていただけ。
                 <li>Sonic Adventure 2 Battle</li>子ども時代にガンギマリしたゲームの代表。
-                <li>Life is Strange</li>大人になってプレーした数少ないゲーム。日本語版の実況動画も観たが，原作の声優陣のほうが好き。
+                <li>Life is Strange</li>大人になってプレーした数少ないゲーム。日本語版の実況動画も観たが，原作の声優陣のほうが好き。アメリカの countryside エリアに漂う生活感，スケールが伝わってくる。
             </ul>
             <h3>サッカー</h3>
             <ul>
