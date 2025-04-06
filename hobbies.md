@@ -52,7 +52,7 @@ publish: false
                 <li>Final Fantasy XII</li>消費しただけという程度だが，大人が考えてプレーすれば深さがわかるらしい。
                 <li>Final Fantasy XIII</li>当時はただ「ライトニングかっこいい」となっていただけ。
                 <li>Sonic Adventure 2 Battle</li>子ども時代にガンギマリしたゲームの代表。
-                <li>Life is Strange</li>大人になってプレーした数少ないゲーム。日本語版の実況動画も観たが，原作の声優陣のほうが好き。アメリカの countryside エリアに漂う生活感，スケールが伝わってくる。
+                <li>Life is Strange</li>大人になってプレーした数少ないゲーム。日本語版の実況動画も観たが，原作の声優陣のほうが好き。アメリカの小コミュニティに漂う生活感，スケールが伝わってくる。
             </ul>
             <h3>サッカー</h3>
             <ul>
