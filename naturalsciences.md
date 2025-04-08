@@ -19,7 +19,7 @@ publish: false
                 <span><a href="/index.html">TOP</a> ＞ <a href="/studies.html">勉強</a> ＞ 自然科学</span>
             </header>
             <main>
-            <h3>教科書</h3>私が当該分野を勉強していたときには入手できなかった新版も混在するが，現在の最新版で統一した (よほど大幅書替えの情報がある場合を除く)。
+            <h3>教科書・一般書・読み物</h3>私が当該分野を勉強していたときには入手できなかった新版も混在するが，現在の最新版で統一した (よほど大幅書替えの情報がある場合を除く)。
             <ul>
                 <li>田崎晴明『熱力学』培風館，2000</li>
                 <li>砂川重信『理論電磁気学 第3版』紀伊國屋書店，1999</li>同著者による『電磁気学: 初めて学ぶ人のために』(1997) という高校4年生～大学0年生くらいにちょうどよい薄い本もある。
@@ -29,7 +29,7 @@ publish: false
                 <li>Lavega, A. <em>An introduction to planetary atmospheres</em>, Boca Raton, FL: CRC Press, 2011</li>
                 <li>Wallace, J.M. Hobbs, P.V. <em>Atmospheric science: an introductory survey</em>, Amsterdam, Elsevier, 2006</li>
                 <li>Ruddiman, W.F. <em>Earth's climate: past and future</em>,New York, NY: W.H. Freeman and Company, 2014</li>
-                <li>小倉義光『一般気象学 第2版補訂版』東京大学出版会，2016</li>私が持っているのは第2版だったと思われる。
+                <li>小倉義光『一般気象学 第2版補訂版』東京大学出版会，2016</li>私が持っているのは第2版だったと思われる。古いが，同著者による『お天気の科学』という入門書の入門書が出ているので，気象学に興味のある場合はこちらから入ると効率的だと思う。
                 <li>横山祐典『地球46億年気候大変動』講談社ブルーバックス，2018</li>一般向け。
                 <li>田近英一『凍った地球』新潮選書，2009</li>一般向け。新しい定説が一般に普及するまで50年かかると言われるが，全球凍結イベントなどはそれではないかとたまに思う。
                 <li>『アトキンス物理化学』</li>
