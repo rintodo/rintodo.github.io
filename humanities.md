@@ -28,7 +28,7 @@ publish: false
                 <li>Gildersleeve, B.L., G. Lodge (2009) <em>Gildersleeve's Latin Grammar</em>. rep. New York, NY.</li>ラテン語を読む際はこれが座右の書になる。辞書は OLD や Gaffiot など。
             </ul>
 
-            <h3>修辞技法</h3>実際に読むなかで拾っていくもの，とはいえ何か一冊は座右に据えたい。
+            <h3>修辞技法</h3>上記古典語作品（案外，現在の政治演説などでも脈々と生き延びているものだとニュースなどを視聴するにつけて思うが）にかんして，何か一冊は座右に据えたかったのでとりあえず探した。
             <ul>
                 <li>Lausberg, H. (1963) <em>Elemente der Literarischen Rhetorik</em>. Muenchen.</li>体系的な手引き書を挙げるとすればこれか。聖書など引用元は広汎だった記憶がある。
 
