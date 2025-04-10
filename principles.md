@@ -4,12 +4,11 @@ title: "著述のための指針"
 permalink: /literaryworks/principles
 cssclass:
 publish: false
+---
+
 <style>
 P { text-indent: 1em; }
 </style>
----
-
-
 
 <html lang="ja">
    <head>
