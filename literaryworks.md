@@ -23,7 +23,7 @@ publish: false
             <p>いずれの記録も網羅的ではありません。</p>
             <h3>著述のための指針</h3>
             <ul>
-                <li>test</li>test
+                <li><a href="/literaryworks/principles.html">作品における論理</a></li>
             </ul>
             <h3>読んだものリスト</h3>綺麗にジャンル分けできる性質のものではないが，さしあたって商用性の多寡から個人的判断によって分類した。
             <ul>
