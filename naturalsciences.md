@@ -29,7 +29,7 @@ publish: false
                 <li>Lavega, A. <em>An introduction to planetary atmospheres</em>, Boca Raton, FL: CRC Press, 2011</li>
                 <li>Wallace, J.M. Hobbs, P.V. <em>Atmospheric science: an introductory survey</em>, Amsterdam, Elsevier, 2006</li>
                 <li>Ruddiman, W.F. <em>Earth's climate: past and future</em>,New York, NY: W.H. Freeman and Company, 2014</li>
-                <li>小倉義光『一般気象学 第2版補訂版』東京大学出版会，2016</li>私が持っているのは第2版だったと思われる。古いが，同著者による『お天気の科学』という入門書の入門書が出ているので，気象学に興味のある場合はこちらから入ると効率的だと思う。
+                <li>小倉義光『一般気象学 第2版補訂版』東京大学出版会，2016</li>古いが同著者による『お天気の科学』という入門書の入門書が出ているので，気象学に興味のある場合はこちらから入ると効率的だと思う。
                 <li>横山祐典『地球46億年気候大変動』講談社ブルーバックス，2018</li>一般向け。
                 <li>田近英一『凍った地球』新潮選書，2009</li>一般向け。新しい定説が一般に普及するまで50年かかると言われるが，全球凍結イベントなどはそれではないかとたまに思う。
                 <li>『アトキンス物理化学』</li>
