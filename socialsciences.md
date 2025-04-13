@@ -15,7 +15,7 @@ publish: false
     <body>
         <div class="wrap">
             <header>
-                <h1>社会科学</h1>
+                <h1>社会科学</h1>信頼性のある著書をみつけるのが最初の関門，という印象。
                 <span><a href="/index.html">TOP</a> ＞ <a href="/studies.html">勉強</a> ＞ 社会科学</span>
             </header>
             <main>
