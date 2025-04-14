@@ -30,7 +30,7 @@ publish: false
                 <li>Wallace, J.M. Hobbs, P.V. <em>Atmospheric science: an introductory survey</em>, Amsterdam, Elsevier, 2006</li>
                 <li>Ruddiman, W.F. <em>Earth's climate: past and future</em>,New York, NY: W.H. Freeman and Company, 2014</li>
                 <li>Kump, L.R. Kastin, J.F. Crane, R.G.<em>The earth system 3rd edtion</em>, Hoboken, NJ: Prentice Hall, 2010</li>
-                <li>在田他『地球惑星科学入門 第2版』北海道大学出版会，2015</li>定評のある教科書。そろそろ改版してほしい。
+                <li>在田，竹下，見延，渡部編著『地球惑星科学入門 第2版』北海道大学出版会，2015</li>定評のある教科書。そろそろ改版してほしいところではある。
                 <li>杉本，杵島，松本『はじめて学ぶ大学教養地学』慶応義塾大学出版会，2020</li>最近読んだ。タイトルどおり浅く広くではあるが入門書としてはよいのでは。                
                 <li>小倉義光『一般気象学 第2版補訂版』東京大学出版会，2016</li>古いが同著者による『お天気の科学』という入門書の入門書が出ているので，気象学に興味のある場合はこちらから入ると効率的だと思う。
                 <li>横山祐典『地球46億年気候大変動』講談社ブルーバックス，2018</li>一般向け。
